@@ -1,10 +1,4 @@
-# 基于springboot的社区疫情管理系统
-
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**疫情** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于springboot的社区疫情防控管理系统8
 
 ## 1、项目介绍
 
@@ -37,67 +31,60 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182313554.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202211182313554.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182313020.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202211182313020.jpg)
 
 ### 4.2 用户模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314257.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202211182314257.jpg)
 
-![用户-在线交流](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314022.jpg)
+![用户-在线交流](https://www.codeshop.fun/Typora-Images/202211182314022.jpg)
 
-![用户-外来人员报备](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314684.jpg)
+![用户-外来人员报备](https://www.codeshop.fun/Typora-Images/202211182314684.jpg)
 
-![用户-商品界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314754.jpg)
+![用户-商品界面](https://www.codeshop.fun/Typora-Images/202211182314754.jpg)
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314946.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202211182314946.jpg)
 
-![用户-订单信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314502.jpg)
+![用户-订单信息](https://www.codeshop.fun/Typora-Images/202211182314502.jpg)
 
-![用户-充值](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314147.jpg)
+![用户-充值](https://www.codeshop.fun/Typora-Images/202211182314147.jpg)
 
-![用户-评价商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314336.jpg)
+![用户-评价商品](https://www.codeshop.fun/Typora-Images/202211182314336.jpg)
 
 ### 4.3 普通管理员模块
 
-![普通管理员功能列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314022.jpg)
+![普通管理员功能列表](https://www.codeshop.fun/Typora-Images/202211182314022.jpg)
 
-![管理员-外来人员报备管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314620.jpg)
+![管理员-外来人员报备管理](https://www.codeshop.fun/Typora-Images/202211182314620.jpg)
 
 ### 4.4 超级管理员模块
 
-![超级管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314575.jpg)
+![超级管理员-首页](https://www.codeshop.fun/Typora-Images/202211182314575.jpg)
 
-![超级管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182314672.jpg)
+![超级管理员-用户管理](https://www.codeshop.fun/Typora-Images/202211182314672.jpg)
 
-![超级管理员-人员检测信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315868.jpg)
+![超级管理员-人员检测信息管理](https://www.codeshop.fun/Typora-Images/202211182315868.jpg)
 
-![超级管理员-外来人员报备](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315828.jpg)
+![超级管理员-外来人员报备](https://www.codeshop.fun/Typora-Images/202211182315828.jpg)
 
-![超级管理员-防疫须知管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315909.jpg)
+![超级管理员-防疫须知管理](https://www.codeshop.fun/Typora-Images/202211182315909.jpg)
 
-![超级管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315990.jpg)
+![超级管理员-公告管理](https://www.codeshop.fun/Typora-Images/202211182315990.jpg)
 
-![超级管理员-疫情用品类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315943.jpg)
+![超级管理员-疫情用品类型管理](https://www.codeshop.fun/Typora-Images/202211182315943.jpg)
 
-![超级管理员-疫情用品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315883.jpg)
+![超级管理员-疫情用品详情](https://www.codeshop.fun/Typora-Images/202211182315883.jpg)
 
-![超级管理员-订单信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315815.jpg)
+![超级管理员-订单信息管理](https://www.codeshop.fun/Typora-Images/202211182315815.jpg)
 
-![超级管理员-评论信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315198.jpg)
+![超级管理员-评论信息管理](https://www.codeshop.fun/Typora-Images/202211182315198.jpg)
 
-![超级管理员-防疫评论管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211182315366.jpg)
+![超级管理员-防疫评论管理](https://www.codeshop.fun/Typora-Images/202211182315366.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**疫情**，查看导入教程视频、sql脚本和源码等
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**疫情** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
